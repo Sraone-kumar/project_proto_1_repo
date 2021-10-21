@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <clipPath id="clip-Web_1920_1">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_1" data-name="Web 1920 – 1" clip-path="url(#clip-Web_1920_1)">
+    <rect width="1920" height="1080" fill="#fff"/>
+    <g id="input_parameters" data-name="input parameters" transform="translate(-233 -36)">
+      <g id="Rectangle_1" data-name="Rectangle 1" transform="translate(279 121)" fill="#515866" stroke="#707070" stroke-width="1">
+        <rect width="276" height="330" rx="40" stroke="none"/>
+        <rect x="0.5" y="0.5" width="275" height="329" rx="39.5" fill="none"/>
+      </g>
+      <text id="Input_Parameters_1._Faculty_2._sections_3._Subjects_4._No_of_Hours_5._No_of_Days_" data-name="Input Parameters
+
+1. Faculty
+2. sections
+3. Subjects
+4. No of Hours
+5. No of Days " transform="translate(326 184)" fill="#fff" font-size="26" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Input Parameters</tspan><tspan x="0" y="35"></tspan><tspan x="0" y="70">1. Faculty</tspan><tspan x="0" y="105">2. sections</tspan><tspan x="0" y="140">3. Subjects</tspan><tspan x="0" y="175">4. No of Hours</tspan><tspan x="0" y="210">5. No of Days </tspan></text>
+    </g>
+    <g id="Time_Table" data-name="Time Table" transform="translate(-177)">
+      <g id="Rectangle_2" data-name="Rectangle 2" transform="translate(651 70)" fill="#71a77c" stroke="#707070" stroke-width="1">
+        <rect width="524" height="148" rx="46" stroke="none"/>
+        <rect x="0.5" y="0.5" width="523" height="147" rx="45.5" fill="none"/>
+      </g>
+      <text id="Time_Table_classes_sections_No_of_Hours_No_of_days_" data-name="Time Table
+
+classes = sections*No of Hours * No of days
+" transform="translate(909 112)" fill="#ffff6b" font-size="23" font-family="SegoeUI, Segoe UI"><tspan x="-54.024" y="0">Time Table</tspan><tspan x="0" y="31"></tspan><tspan x="-222.987" y="62">classes = sections*No of Hours * No of days</tspan><tspan x="0" y="93"></tspan></text>
+    </g>
+    <g id="Genetic_Algorithm" data-name="Genetic Algorithm" transform="translate(-363 -3)">
+      <g id="Rectangle_3" data-name="Rectangle 3" transform="translate(960 365)" fill="#688283" stroke="#707070" stroke-width="1">
+        <rect width="278" height="332" rx="63" stroke="none"/>
+        <rect x="0.5" y="0.5" width="277" height="331" rx="62.5" fill="none"/>
+      </g>
+      <text id="Genetic_Algorithm_Generate_Population_fitness_run_Evolution_" data-name="Genetic Algorithm
+
+Generate Population
+fitness()
+run Evolution()
+" transform="translate(1099 463)" fill="#fff" font-size="26" font-family="SegoeUI, Segoe UI"><tspan x="-104.425" y="0">Genetic Algorithm</tspan><tspan x="0" y="35"></tspan><tspan x="-117.476" y="70">Generate Population</tspan><tspan x="-44.656" y="105">fitness()</tspan><tspan x="-84.094" y="140">run Evolution()</tspan><tspan x="0" y="175"></tspan></text>
+    </g>
+    <g id="Tweaking_parameters" data-name="Tweaking parameters" transform="translate(-13 2)">
+      <g id="Rectangle_4" data-name="Rectangle 4" transform="translate(46 526)" fill="#767fb5" stroke="#707070" stroke-width="1">
+        <rect width="333" height="342" rx="53" stroke="none"/>
+        <rect x="0.5" y="0.5" width="332" height="341" rx="52.5" fill="none"/>
+      </g>
+      <text id="Algorithm_Tweaking_input_parameters_1._fitness_limit_2._population_size_3.number_of_mutations_4._probability_5._Generation_limit_" data-name="Algorithm Tweaking
+input parameters
+1. fitness limit
+2. population size
+3.number of mutations
+4. probability
+5. Generation limit
+" transform="translate(91 592)" fill="#fff" font-size="25" font-family="SegoeUI, Segoe UI"><tspan text-decoration="underline"><tspan x="0" y="0">Algorithm Tweaking</tspan><tspan x="0" y="33">input parameters</tspan></tspan><tspan font-size="27"><tspan x="0" y="68">1. fitness limit</tspan><tspan x="0" y="104">2. population size</tspan><tspan x="0" y="140">3.number of mutations</tspan><tspan x="0" y="176">4. probability</tspan><tspan x="0" y="212">5. Generation limit</tspan><tspan x="0" y="248"></tspan></tspan></text>
+    </g>
+    <g id="out_put" data-name="out put" transform="translate(-584 81)">
+      <g id="Rectangle_5" data-name="Rectangle 5" transform="translate(1544 253)" fill="#aa466b" stroke="#707070" stroke-width="1">
+        <rect width="324" height="206" rx="46" stroke="none"/>
+        <rect x="0.5" y="0.5" width="323" height="205" rx="45.5" fill="none"/>
+      </g>
+      <text id="Out_Put:_list_of_time_tables_fitness_of_the_first_table" data-name="Out Put: 
+list of time tables
+fitness of the first table" transform="translate(1573 334)" fill="#fff8f8" font-size="27" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Out Put: </tspan><tspan x="0" y="36">list of time tables</tspan><tspan x="0" y="72">fitness of the first table</tspan></text>
+    </g>
+    <g id="Database" transform="translate(-120 -27)">
+      <g id="Rectangle_6" data-name="Rectangle 6" transform="translate(1529 331)" fill="#32363d" stroke="#707070" stroke-width="1">
+        <rect width="451" height="267" rx="70" stroke="none"/>
+        <rect x="0.5" y="0.5" width="450" height="266" rx="69.5" fill="none"/>
+      </g>
+      <text id="Database_first_timetable_is_generated_Table:_columns_are_input_parameters_Rows_are_classes" data-name="Database
+first timetable is generated
+Table:
+columns are input parameters
+Rows are classes" transform="translate(1596 400)" fill="#fff" font-size="27" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Database</tspan><tspan x="0" y="36">first timetable is generated</tspan><tspan x="0" y="72">Table:</tspan><tspan x="0" y="108">columns are input parameters</tspan><tspan x="0" y="144">Rows are classes</tspan></text>
+    </g>
+    <line id="Line_1" data-name="Line 1" y1="141" x2="231" transform="translate(366.5 592.5)" fill="none" stroke="#262323" stroke-width="3"/>
+    <line id="Line_2" data-name="Line 2" y1="18" x2="152" transform="translate(322.5 144.5)" fill="none" stroke="#262323" stroke-width="3"/>
+    <line id="Line_3" data-name="Line 3" y2="155" transform="translate(736.5 207.5)" fill="none" stroke="#262323" stroke-width="3"/>
+    <line id="Line_4" data-name="Line 4" y1="90" x2="85" transform="translate(875.5 502.5)" fill="none" stroke="#262323" stroke-width="3"/>
+    <line id="Line_5" data-name="Line 5" x2="125" transform="translate(1284.5 437.5)" fill="none" stroke="#262323" stroke-width="3"/>
+  </g>
+</svg>
